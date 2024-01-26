@@ -1,6 +1,6 @@
 ## **Hi, I'm Edita!** 🙋🏼‍♀️
 
-I'm a 26-year-old frontend (full-stack in future!) developer with technical support/sysadmin background experience, and love to learn new technologies. <br />
+I'm a 26-year-old frontend (full-stack in future!) developer with more than 2 years of experience plus technical support/sysadmin background, and love to learn new technologies. <br />
 
 Check out my [website](https://editadraws.site/) to learn more! (currently available in Russian only) <br />
 
@@ -23,7 +23,7 @@ Check out my [website](https://editadraws.site/) to learn more! (currently avail
 
 ## 🖼 Fun Facts
 * I love video games!
-* I'm also an artist, I do digital art or lil commissions in free time 
+* Also I'm an artist, I do digital art or lil commissions in free time 
 * Before my IT career path I worked as senior restaurant manager
   
 ## 💌 Contact
