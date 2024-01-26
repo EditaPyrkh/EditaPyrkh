@@ -1,16 +1,30 @@
-### Hi there 👋
+## **Hi, I'm Edita!** 🙋🏼‍♀️
 
-<!--
-**EditaPyrkh/EditaPyrkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 26-year-old frontend(full-stack in future!) developer with technical support/sysadmin background expirience, and love to learn new technologies. <br />
 
-Here are some ideas to get you started:
+Check out my [website](https://editadraws.site/) to learn more! (currently available in Russian only) <br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧮 Stack 
+**Frontend**: ```React``` ```Redux (toolkit, saga, thunk)``` ```Next``` ```Vue``` ```Vuex``` ```Nuxt``` ```CSS/SASS/LESS```
+
+**Backend**: ```GraphQL``` ```SQL``` 
+
+**Other**: ```Wordpress``` ```Docker``` ```Axios``` ```REST API``` ```GSAP``` ```Babel``` ```MUI/Bootstrap``` ```Ramda``` <br />
+
+**💬**: <br /> ```JavaScript``` — 🟩🟩🟩🟩🟩 <br />
+```TypeScript``` — 🟩🟩🟩🟩⬜️ <br />
+```Java``` — 🟩🟩⬜️⬜️⬜️<br />
+```Python``` — 🟩⬜️⬜️⬜️⬜️<br />
+```PHP``` — 🟩⬜️⬜️⬜️⬜️<br />
+<br />
+```English``` — 🟦🟦🟦🟦🟦 <br />
+```Russian``` — 🟦🟦🟦🟦🟦 <br />
+```Italian``` — 🟦🟦⬜️⬜️⬜️ <br />
+
+## 🖼 Fun Facts
+* I love video games!
+* I'm also an artist, I do digital art or lil commissions in free time 
+* Before my IT career path I worked as senior restaurant manager
+  
+## 💌 Contact
+For a quick response, DM me on [telegram](https://t.me/meredness) or mail me at edithpirk@gmail.com.
